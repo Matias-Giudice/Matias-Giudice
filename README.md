@@ -4,16 +4,11 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ### About Me 
-
-
-
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
 - 🎓 &nbsp; Studying Systems at UNLA.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
-
 
 ### Tech & Tools Preference
 **Frontend**:
@@ -40,8 +35,6 @@
   <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 <hr>
-
-
 
 <br/><br/>
 
